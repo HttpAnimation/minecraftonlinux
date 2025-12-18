@@ -1,0 +1,46 @@
+# Logs
+*.log
+logs/
+
+# Java artifacts
+*.jar
+*.class
+
+# Session files
+session.lock
+uid.dat
+
+# Sensitive config files
+*/config.yml
+*/config/
+**/config.yml
+**/config/
+
+# Credentials and tokens
+*.key
+*.pem
+*.token
+*credentials*
+*secret*
+
+# Database files
+*.db
+*.sqlite
+
+# Cache and temp files
+cache/
+*.tmp
+*.temp
+.paper-remapped/
+
+# Plugin specific sensitive folders
+plugins/gitbackup/
+plugins/*/config/
+plugins/LuckPerms/
+plugins/Vault/
+plugins/EssentialsX/userdata/
+plugins/*/playerdata/
+plugins/*/userdata/
+
+# bStats
+plugins/bStats/
