@@ -53,4 +53,4 @@ firing_knockback: 0
 KilledByMessage: '%player% was shot by %killer% using a %name%'
 DestructableMaterials:
 - MATERIAL_NAME_HERE
-lastModifiedByQA: 1766092040963
+lastModifiedByQA: 1766127690158
