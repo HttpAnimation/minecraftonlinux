@@ -95,7 +95,7 @@ page0:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4556
       id: minecraft:dripstone_block
-      count: 33
+      count: 64
       schema_version: 1
     '15':
       ==: org.bukkit.inventory.ItemStack
@@ -131,7 +131,7 @@ page0:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4556
       id: minecraft:coal
-      count: 50
+      count: 64
       schema_version: 1
     '21':
       ==: org.bukkit.inventory.ItemStack
@@ -173,7 +173,7 @@ page0:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4556
       id: minecraft:cobblestone
-      count: 19
+      count: 64
       schema_version: 1
     '28':
       ==: org.bukkit.inventory.ItemStack
@@ -198,4 +198,70 @@ page0:
       DataVersion: 4556
       id: minecraft:gravel
       count: 17
+      schema_version: 1
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:coal
+      count: 49
+      schema_version: 1
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:grass_block
+      count: 64
+      schema_version: 1
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:cobblestone
+      count: 64
+      schema_version: 1
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:grass_block
+      count: 64
+      schema_version: 1
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:dripstone_block
+      count: 17
+      schema_version: 1
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:cobblestone
+      count: 64
+      schema_version: 1
+    '38':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:cobblestone
+      count: 29
+      schema_version: 1
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:grass_block
+      count: 64
+      schema_version: 1
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:grass_block
+      count: 64
+      schema_version: 1
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:grass_block
+      count: 64
+      schema_version: 1
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:grass_block
+      count: 15
       schema_version: 1
