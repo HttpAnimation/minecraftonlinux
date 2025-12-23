@@ -1,1 +1,9 @@
 pages: 1
+page0:
+  slot:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:furnace
+      count: 1
+      schema_version: 1
