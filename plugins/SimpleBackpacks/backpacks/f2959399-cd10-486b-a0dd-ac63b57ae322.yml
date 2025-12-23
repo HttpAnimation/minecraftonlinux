@@ -265,3 +265,11 @@ page0:
       id: minecraft:grass_block
       count: 15
       schema_version: 1
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4556
+      id: minecraft:player_head
+      count: 1
+      components:
+        minecraft:profile: '{id:[I;-1505030028,661144559,-1397585658,-107464637],name:"lillyannedouglas",properties:[{name:"textures",signature:"rThGKm4jU0GVyeWLUYMPvyJfkzldBFa+cy9URyT3fBmqoBHRBe8KaDstjMG1W4E/6yvD+vA57YCqGfCV86edp5IGsIynLSEyo1yLHSMqWcRl4LZdrN08NpEgU/u0JSQbx5j0Y7qU8mEjCxf69AlqXp9Xb3Z5TPGZefVIuYtf8zbqaYfm42PuCToC6BHFFczUCQstLaqsXx9rA5A7TeHoxFRtrVT/y3g3grV3yts6C8j6p8YGn7TuYGs/HEOn4t7OWaw9WkZMPr7FME1H7kOQHf5yqRrNfq8ZTm9EiJzikz6PreCPzlsjaJBSdT5wflAEBZ/fTwS8DjX0cglq8YoR9+wOK84bZqqzgwJ27svpMmfprE6dGPA51vEKzcLIsonwd+FdQqYpV2DNNYk8ozxdl01RjfnK4iNFi+/eer6nQ0IeDt9I6BWOUs0xH0cd4zO9srXcSfKwu3ScTUwMRO8catH3l1HZr9RX34B/AuwAZGrU5ruQ37QBLApKrwe1F9XATgxPWk/84bSkTUud8k2RyWKCJX7UMIzM6TobIyoCMQxky942u++uvG384qbjyfBX8oAJCHxm+mJMxshRan09D2rc2YNF3vRmYH6SMocNrVPv2oRrKrBAEP6vdzqAYHEJGkkYSEqbtwXz8rDykSFjzPxhYpWb+5XkXWQT0hDSeUM=",value:"ewogICJ0aW1lc3RhbXAiIDogMTc2NjQ1MjMxNzM0OSwKICAicHJvZmlsZUlkIiA6ICJhNjRiMTA3NDI3Njg0M2VmYWNiMjg5MDZmOTk4Mzg0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWxseWFubmVkb3VnbGFzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhODM1YWI1ZWUzNjEwOTNiZWE1ZWNmZTI5MzhhNWVhNDg2MzE5YTJkZWQ1MDBjMTIwNzFlMzQ1MTg5NDRlMmYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="}]}'
+      schema_version: 1
