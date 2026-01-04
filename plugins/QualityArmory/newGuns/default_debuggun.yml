@@ -55,5 +55,5 @@ weaponsounds_reloadingSound: reloadmagclick
 firing_knockback: 0
 DestructableMaterials:
 - MATERIAL_NAME_HERE
-lastModifiedByQA: 1767237363338
+lastModifiedByQA: 1767500810892
 ammotype: '556'
